@@ -16,6 +16,7 @@ public class HelloWorld {
 		Util<Worker> ut = new Util<Worker>();
 		ut.setObj(new Worker("Mike",30));
 		System.out.println(ut.getObj());
+		System.out.println("\n");
 
 	}
 
