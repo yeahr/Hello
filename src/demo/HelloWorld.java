@@ -18,6 +18,8 @@ public class HelloWorld {
 		System.out.println(ut.getObj());
 		System.out.println("\n");
 
+		System.out.println("test git commit and push");
+				
 	}
 
 }
