@@ -19,6 +19,7 @@ public class HelloWorld {
 		System.out.println("\n");
 
 		System.out.println("test git commit and push");
+		System.out.println("first Egit task finished!");
 				
 	}
 
